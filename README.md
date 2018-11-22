@@ -1,5 +1,5 @@
 # cookiecutter-arduino-lib
-Modèle [Cookiecutter](https://github.com/audreyr/cookiecutter) pour créer une bibliothèque Arduino.
+Template Cookiecutter pour créer une bibliothèque Arduino.
 
 ## Fonctionnalités
  * Crée un nouveau projet de bibliothèque Arduino.
