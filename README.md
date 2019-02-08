@@ -30,7 +30,7 @@ La gestion de version repose sur le système [SemVer](http://semver.org/). Voir 
 Si vous souhaitez contribuer au projet, merci de créer une _issue_ ou de _forker_ ce projet et de créer une nouvelle branche. Toutes les _pull requests_ sont les bienvenues !
 
 ## Licence
-Ce projet est diffusé sous la licence MIT. Voir le fichier [LICENCE](LICENCE) pour plus de details.
+Ce projet est diffusé sous la licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de details.
 
 ## Contributeurs
  * **Julien Lebunetel** - [jlebunetel](https://github.com/jlebunetel)
